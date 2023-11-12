@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CambioDeMoneda_v2</string>
+    <string name="txtCambioDeMoneda">CAMBIO DE MONEDA</string>
+    <string name="rdbPstAE">Pts. a Euros</string>
+    <string name="rdbEuAPts">Euros a Pts.</string>
+    <string name="txtIntroValor">Introduce Valor</string>
+    <string name="txtValor">Valor</string>
+    <string name="btnCambiar">CAMBIAR</string>
+</resources>
