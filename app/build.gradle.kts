@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.example.cambiodemoneda_v2"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.cambiodemoneda_v2"
         minSdk = 23
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
